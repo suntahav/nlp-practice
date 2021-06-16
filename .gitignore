@@ -2,3 +2,4 @@ AIND-NLP/
 build_pipeline/.*/
 build_pipeline/data/.*/
 build_pipeline/data/spam_dataset/*
+topic-modelling/model/*
